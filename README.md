@@ -1,1 +1,1 @@
-# django-project
+Django project by Ashish
